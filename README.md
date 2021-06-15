@@ -6,6 +6,7 @@ Certifiquese de ter o Python instalado no seu sistema operacional fazendo o down
 Instale o pacote pytube com o utilitário pip a partir do console do seu SO.
 
 >pip install pytube
+![instalation](https://github.com/aristotelesfernando/py_baixar_video_youtube/pip_pytube.png?raw=true)
 
 Então no Windows simplesmente execute o script no console:
 
